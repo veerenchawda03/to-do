@@ -5,6 +5,7 @@ pip freeze requirements.txt
 Procfile
 web:gunicorn app:app
 
+from heroku dasboard select buildpack - the project language
 git init
 git add .
 git commit -m "Initial commmit"
